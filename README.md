@@ -15,5 +15,10 @@ An end-to-end classification project that compares Decision Tree, Logistic Regre
 ## Main file
 - CSE422_Lab_Final_Project.ipynb
 
+## Dataset
+- Source: https://www.kaggle.com/datasets/uciml/mushroom-classification
+- File used in this project: mushrooms.csv
+- Place the file in the repository root or in data/mushrooms.csv and update the notebook path accordingly.
+
 ## Note
 The notebook currently uses an absolute local path for the dataset. For GitHub portability, replace it with a relative path such as `mushrooms.csv` and keep the CSV in the repository root.
